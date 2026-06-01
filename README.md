@@ -1,4 +1,5 @@
 # Exploratory Data Analysis: Netflix Content Expansion (US vs Asia)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DGGjiMYaeqZ2tVPYbC20NFzns59jT6eF?usp=sharing)
 
 ## 1. Objectives
 * To analyze and compare the production growth trends of Netflix content between the United States and key Asian regions (Taiwan, South Korea, Japan) between 2017 and 2021.
